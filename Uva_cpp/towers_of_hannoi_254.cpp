@@ -1,4 +1,10 @@
-//http://www.questtosolve.com/browse.php?pid=254
+// Towers of Hannoi
+// UVa ID: 254
+// Verdict: Wrong Answer
+// Submission Date: ?
+// Run Time: ?
+//
+// Author: Borja Gomez
 
 #include <stdio.h>
 #include <math.h>
