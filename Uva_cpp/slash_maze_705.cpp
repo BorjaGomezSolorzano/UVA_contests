@@ -99,14 +99,6 @@ int main()
         }
 
         findCycles();
-
-        for (int x = 0; x < h; x++)
-        {
-            for (int y = 0; y < w; y++)
-            {
-                a[x][y] = false;
-            }
-        }
     }
 
     return 0;
